@@ -1,0 +1,19 @@
+h3 {
+  text-transform: uppercase;
+  margin-left: 1.66%;
+  font-family: Raleway;
+  font-weight: 700;
+}
+
+hr {
+  width: 30%;
+  float: left;
+  margin-left: 1.66%;
+  color: gray;
+}
+
+img {
+  float: left;
+  margin: 1.66%;
+  width: 30%;
+}
